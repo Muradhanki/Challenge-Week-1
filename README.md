@@ -1,121 +1,101 @@
-# 01 HTML CSS Git: Code Refactor
+<br/>
+<p align="center">
+  <a href="https://github.com/Muradhanki/Challenge-Week-1">
+    <img src="" alt="Logo" width="80" height="80">
+  </a>
 
-## Your Task
+  <h3 align="center">Horiseon - Digital Marketing Solutions</h3>
 
-**Note**: Be sure to review the [Challenge Guide](./Challenge-Guide.md) and the [Good README Guide](./Good-README-Guide.md) before you start working on this assignment!
+  <p align="center">
+    Horiseon website refactoring
+    <br/>
+    <br/>
+    <a href="https://github.com/Muradhanki/Challenge-Week-1"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/Muradhanki/Challenge-Week-1">View Demo</a>
+    .
+    <a href="https://github.com/Muradhanki/Challenge-Week-1/issues">Report Bug</a>
+    .
+    <a href="https://github.com/Muradhanki/Challenge-Week-1/issues">Request Feature</a>
+  </p>
+</p>
 
-This week your challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: **accessibility**. 
+![Downloads](https://img.shields.io/github/downloads/Muradhanki/Challenge-Week-1/total) ![Contributors](https://img.shields.io/github/contributors/Muradhanki/Challenge-Week-1?color=dark-green) ![Issues](https://img.shields.io/github/issues/Muradhanki/Challenge-Week-1) ![License](https://img.shields.io/github/license/Muradhanki/Challenge-Week-1) 
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. In this challenge, a marketing agency has hired you to refactor an existing site to make it more accessible. 
+## Table Of Contents
 
-Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Installation](#installation)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
 
-Even though accessibility is a broad topic that can include complex requirements, your tech lead has given you a small list of specific criteria to satisfy the project. These criteria are documented below in the Acceptance Criteria.
+## About The Project
 
-**Important**: An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
+![Screen Shot](https://github.com/Muradhanki/Challenge-Week-1.git)
 
-To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+Hi everyone! This is Muradhan. I am a constrcution project manager of 10 years whom always had an interest overt the IT industry. Finally decided to make the switch, and started the EdX's Front end development boot camp to switch his field of work. 
 
-Are you ready to jump in? Here are this week's challenge requirements:
+As per our assigment, I have been asked to refactor the Horiseon's, a digital marketing agency, website as per the clients requirements.
+Being a digital marketing agency, Horiseon needed to update their website with the user story of:
+"As a marketing agency
+I want a codebase that follows accessibility standards
+So that our own site is optimized for search engines"
+Therefore accesibility standarts below have been applied to the existing code:
+> Semantic HTML elements can be found throughout the source code
+> HTML elements follow a logical structure independent of styling and positioning
+> Image and icon elements contain accessible alt attributes
+> Heading attributes fall in sequential order
+> Title elements contain a concise, descriptive title.
 
-### User Story
+## Built With
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+Languages that has been used to code:
 
-### Acceptance Criteria
+* [HTML]()
+* [CSS]()
+* [Visual Studio Code](https://code.visualstudio.com/)
 
-Your website must meet accessibility standards. You can achieve this completing the following:
+## Getting Started
 
-* Semantic HTML elements can be found throughout the source code
-* HTML elements follow a logical structure independent of styling and positioning
-* Image and icon elements contain accessible `alt` attributes
-* Heading attributes fall in sequential order
-* Title elements contain a concise, descriptive title
+To get a local copy up and running follow these simple example steps.
 
-### Resources:
+### Installation
 
-* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+1. Fire up your GitBash console and copy the line below
 
-### Mock-Up
+2. 
+git clone git@github.com:Muradhanki/Challenge-Week-1.git
 
-The following image shows the web application's appearance and functionality:
+## Roadmap
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+See the [open issues](https://github.com/Muradhanki/Challenge-Week-1/issues) for a list of proposed features (and known issues).
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+## Contributing
 
-### Getting Started
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Muradhanki/Challenge-Week-1/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/Muradhanki/Challenge-Week-1/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
-Follow these instructions to create your project and deploy it to GitHub Pages:
+### Creating A Pull Request
 
-1. Create a new repository on your GitHub account and clone it to your computer.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+## License
 
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+Distributed under the MIT License. See [LICENSE](https://github.com/Muradhanki/Challenge-Week-1/blob/main/LICENSE.md) for more information.
 
-4. On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
+## Authors
 
-5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
-
-You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
-
-> **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
-
-Be sure to add, commit, and push your work to see the most up-to-date version of your app!
-
-### Requirements
-
-This challenge is assessed on the following criteria: 
-
-#### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following code improvements:
-
-  * Application's links all function correctly.
-
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-  * Application's CSS file is properly commented.
-
-#### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-#### Application Quality: 15%
-
-* Application resembles (at least 90%) screenshots provided in the challenge instructions.
-
-#### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-### Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+* **Muradhan KILINC** - *EdX Front End Development Bootcamp Student* - [Muradhan KILINC](https://github.com/Muradhanki) - **
