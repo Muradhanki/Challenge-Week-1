@@ -14,7 +14,6 @@
 
 ## About The Project
 
-![Screen Shot](https://github.com/Muradhanki/Challenge-Week-1.git)
 
 Hi everyone! This is Muradhan. I am a constrcution project manager of 10 years whom always had an interest overt the IT industry. Finally decided to make the switch, and started the EdX's Front end development boot camp to switch his field of work. 
 
