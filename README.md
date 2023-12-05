@@ -1,27 +1,4 @@
-<br/>
-<p align="center">
-  <a href="https://github.com/Muradhanki/Challenge-Week-1">
-    <img src="" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Horiseon - Digital Marketing Solutions</h3>
-
-  <p align="center">
-    Horiseon website refactoring
-    <br/>
-    <br/>
-    <a href="https://github.com/Muradhanki/Challenge-Week-1"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/Muradhanki/Challenge-Week-1">View Demo</a>
-    .
-    <a href="https://github.com/Muradhanki/Challenge-Week-1/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Muradhanki/Challenge-Week-1/issues">Request Feature</a>
-  </p>
-</p>
-
-![Downloads](https://img.shields.io/github/downloads/Muradhanki/Challenge-Week-1/total) ![Contributors](https://img.shields.io/github/contributors/Muradhanki/Challenge-Week-1?color=dark-green) ![Issues](https://img.shields.io/github/issues/Muradhanki/Challenge-Week-1) ![License](https://img.shields.io/github/license/Muradhanki/Challenge-Week-1) 
 
 ## Table Of Contents
 
